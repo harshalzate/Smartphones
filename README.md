@@ -3,6 +3,7 @@ Objective:
 The project involves understanding and studying the smartphones data which contains all the smartphones available in the market and then performing the EDA to unveil hidden patterns.
 
 The tasks involved in the project are as follows:
+
 1: Gathering data
 2: Assessing data
 3: Cleaning data
