@@ -5,6 +5,7 @@ The project involves understanding and studying the smartphones data which conta
 The tasks involved in the project are as follows:
 
 1: Gathering data
+
 2: Assessing data
 3: Cleaning data
 4: Storing data
