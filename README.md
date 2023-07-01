@@ -7,10 +7,15 @@ The tasks involved in the project are as follows:
 1: Gathering data
 
 2: Assessing data
+
 3: Cleaning data
+
 4: Storing data
+
 5: Analyzing, and visualizing data
+
 6: Reporting
+
 #About the dataset:
 Data contains 1020 smartphones in the market with thier 10 features containing information about thier price,processing units,camers,os,battery etc.
 
