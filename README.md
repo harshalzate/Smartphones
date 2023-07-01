@@ -12,4 +12,5 @@ Step 6: Reporting
 #About the dataset:
 Data contains 1020 smartphones in the market with thier 10 features containing information about thier price,processing units,camers,os,battery etc.
 
-#Conclusion of project
+#Conclusion of project:
+
