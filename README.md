@@ -1,6 +1,6 @@
 # Smartphones
 Objective:
-The project involves understanding and studying the smartphones data which contains all the smartphones available in the market and then performing the EDA to unveil hidden patterns.
+The project involves understanding and studying the smartphones data which contains all the smartphones available in the market and then performing the EDA to unveil hidden patterns. The analysis is mainly carried out around price column
 
 The tasks involved in the project are as follows:
 
